@@ -1,0 +1,115 @@
+
+p, h1, h2, h3, li, a {
+    font-family: 'Special Elite', cursive !Important;
+}
+
+.merc-nav {
+    background-color: white;
+    opacity: 0.8;
+}
+
+.merc-nav a{
+    color: black;
+    font-size: 13px;
+}
+
+.propic {
+    width: auto;
+    height: 220px;
+    border-radius:10%;
+    margin-top:5%;
+    margin-left: 10%;
+}
+
+.full-page {
+    min-height: 100vh;
+    height: auto;
+    max-width: 100%; !important
+    vertical-align: baseline;
+}
+
+.contactTitle {
+    font-family: 'Special Elite', cursive;
+}
+
+.landing {
+    background-image: url("../assets/bw.jpg");
+    min-height: 100vh;
+    background-size: cover;
+}
+
+.workexp{
+    background-image: url("../assets/tramhk.jpg");
+    min-height: 100vh;
+    height: 100%;
+    background-size: initial;
+}
+
+.intro-text {
+    margin-left: 10%
+}
+
+.social-buttons {
+    margin: 5% 24% !important;
+}
+
+.middle {
+    margin:15% 0%;
+}
+
+
+#work {
+    background-color: black;
+}
+
+
+.custom-logo{
+    background-color: white;
+    min-width: 100%;
+    min-height: 150px;
+    padding: 20% 0%
+}
+
+#dbrs, #bitcircle {
+    height: auto;
+    padding: 10%
+}
+
+#usful {
+    height: auto;
+    padding: 0%
+}
+
+#borrowell {
+    padding: 32% 10%
+}
+
+#progressly {
+    padding: 45% 10%;
+}
+
+
+.post-content {
+    top:0;
+    height: 100%;
+    left: 0;
+    width: 100%;
+    position: absolute;
+    opacity: 0;
+    background-color: rgb(89, 80, 76);
+    color: white;
+    vertical-align: middle;
+    padding: 15% 10%;
+}
+
+.thumbnail{
+    position:relative;
+}
+
+.post-content:hover {
+    opacity: 0.7;
+}
+
+.text-center {
+    vertical-align: center;
+}
